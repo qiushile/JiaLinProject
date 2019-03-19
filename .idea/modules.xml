@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JiaLinProject.iml" filepath="$PROJECT_DIR$/JiaLinProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/autoreply/autoreply.iml" filepath="$PROJECT_DIR$/autoreply/autoreply.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stockcode/stockcode.iml" filepath="$PROJECT_DIR$/stockcode/stockcode.iml" />
+    </modules>
+  </component>
+</project>
